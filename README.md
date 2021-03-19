@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ## I'm own a professional SEO agency, interested in cutting edge technology and coding.
 
--
-
 
 ### Connect with me:
 
@@ -39,7 +37,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-?? [more blog posts...](https://consulenteseoweb.blogspot.com)
+[more blog posts...](https://consulenteseoweb.blogspot.com)
 
 ---
 
