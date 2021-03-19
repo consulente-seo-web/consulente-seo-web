@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FAQ for Narro](https://www.narro.co/article/692dd0e4-fecf-4a82-894e-9b783439eea0)
 <!-- BLOG-POST-LIST:END -->
 
 [more blog posts...](https://consulenteseoweb.blogspot.com)
