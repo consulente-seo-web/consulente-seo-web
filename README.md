@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Consulente SEO](https://consulenteseoweb.tumblr.com/post/646259858847547392)
 - [Consulente SEO: Consulente SEO](https://consulenteseoweb.blogspot.com/2021/03/consulente-seo.html)
 - [Consulente SEO](https://www.narro.co/article/7d2ff964-f7d7-4df8-91f4-3831418c1a90)
 - [Consulente SEO](https://consulenteseoweb.weebly.com/blog/consulente-seo)
