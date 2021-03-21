@@ -40,6 +40,10 @@ Here are some ideas to get you started:
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Consulente SEO](https://consulenteseoweb.weebly.com/blog/consulente-seo)
+- [Consulente SEO](https://consulenteseoweb.wordpress.com/2021/03/21/consulente-seo/)
+- [Consulente SEO - YouTube](https://www.youtube.com/watch?v=qDRFjItfDdE&feature=youtu.be)
+- [Consulente SEO](https://www.youtube.com/watch?v=qDRFjItfDdE)
 - [Consulente SEO](https://consulenteseoweb.blogspot.com/2021/03/consulente-seo.html)
 - [FAQ for Narro](https://www.narro.co/article/692dd0e4-fecf-4a82-894e-9b783439eea0)
 <!-- BLOG-POST-LIST:END -->
